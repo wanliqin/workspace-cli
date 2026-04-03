@@ -1,0 +1,19 @@
+safeline:
+  url: https://192.168.220.11
+  api_key: mfLP8U1kLdOfZWUlQQxQLs9UbB7XVtFIlfr51r2R
+
+# cloudwalker:
+#   url: https://cloudwalker.example.com/rpc
+#   api_key: YOUR_API_KEY
+
+# tanswer:
+#   url: https://tanswer.example.com
+#   api_key: YOUR_API_KEY
+
+# xray:
+#   url: https://xray.example.com/api/v2
+#   api_key: YOUR_API_KEY
+
+# safeline-ce:
+#   url: https://your-server:9443
+#   api_key: YOUR_API_KEY
